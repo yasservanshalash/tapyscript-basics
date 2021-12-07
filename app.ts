@@ -3,8 +3,8 @@
 //   age: number;
 // } = {
 const person = {
-  name: 'Maximilian',
-  age: 30
+  name: 'Yasser',
+  age: 25
 };
 
 console.log(person.name);
